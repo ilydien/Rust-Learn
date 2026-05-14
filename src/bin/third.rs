@@ -1,5 +1,6 @@
 fn main() {
     let mut jenengku = "lolo";
+    println!("hi, my name is {}", jenengku);
     jenengku = "dien";
-    print!("hi, my name is {}", jenengku);
+    println!("hi, my name is {}", jenengku);
 }
